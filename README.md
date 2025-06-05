@@ -1,2 +1,2 @@
-# recipes_html
+# odin-recipes
 a set of webpages with recipes on them, created to cement my html foundations.
