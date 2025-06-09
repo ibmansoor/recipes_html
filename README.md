@@ -1,2 +1,2 @@
 # odin-recipes
-a set of webpages with recipes on them, created to cement my html foundations.
+A set of webpages with recipes on them, created to cement my html foundations.
